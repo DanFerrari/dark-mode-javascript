@@ -1,4 +1,4 @@
-<img scr:"![download](https://user-images.githubusercontent.com/96835251/160650326-dff38125-e19e-4211-8764-2b7fefb40736.gif)" display:flex border-radius: 50% \>
+(https://user-images.githubusercontent.com/96835251/160650326-dff38125-e19e-4211-8764-2b7fefb40736.gif)
 
 
 # dark-mode-javascript
